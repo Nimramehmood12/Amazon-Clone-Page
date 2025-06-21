@@ -1,4 +1,4 @@
-# Projects
+
 # 🛒 Amazon Clone (HTML & CSS)
 
 This project is a front-end clone of the Amazon homepage built using only HTML and CSS. It was created to practice website layout, styling, and responsive design.
